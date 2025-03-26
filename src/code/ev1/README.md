@@ -10,3 +10,10 @@
 - 08: [PerimetroRectangulo](/src/code/ev1/PerimetroRectangulo.java)
 - 09: [PerimetroCuadrado](/src/code/ev1/PerimetroCuadrado.java)
 - 10: [CantidadParcial](/src/code/ev1/CantidadParcial.java)
+
+### Ejercicios 25 de marzo
+
+- 01: [TablaMultiplicar](/src/code/ev1/TablaMultiplicar.java)
+- 02: [CantidadParcial (repetido)](/src/code/ev1/CantidadParcial.java)
+- 03: [MayorDeTres](/src/code/ev1/MayorDeTres.java)
+- 04: [BancoApp](/src/code/ev1/BancoApp.java)
