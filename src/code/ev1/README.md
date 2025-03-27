@@ -17,3 +17,7 @@
 - 02: [CantidadParcial (repetido)](/src/code/ev1/CantidadParcial.java)
 - 03: [MayorDeTres](/src/code/ev1/MayorDeTres.java)
 - 04: [BancoApp](/src/code/ev1/BancoApp.java)
+
+### Ejercicio 27 de marzo
+
+- [IndiceMasaCorporal](/src/code/ev1/IndiceMasaCorporal.java)
