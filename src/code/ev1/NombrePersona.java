@@ -1,10 +1,10 @@
 package code.ev1;
 import java.util.Scanner;
 
-class Persona {
+class PersonaClass {
   protected String nombre;
 
-  public Persona(String nombre) {
+  public PersonaClass(String nombre) {
     this.nombre = nombre;
   }
 
@@ -22,7 +22,7 @@ public class NombrePersona {
 
     sc.close();
 
-    Persona persona = new Persona(nombre);
+    PersonaClass persona = new PersonaClass(nombre);
     persona.mostrarNombre();
   }
 }
