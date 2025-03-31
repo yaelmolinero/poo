@@ -1,5 +1,14 @@
 ## Orden de los programas
 
+### Primeros programas
+
+- 01: [Profesores](/src/code/ev1/Profesores.java)
+- 02: [Curso](/src/code/ev1/Curso.java)
+- 03: [Persona](/src/code/ev1/Persona.java)
+- 04: [SumaValores](/src/code/ev1/SumaValores.java)
+
+### Ejercicios practia
+
 - 01: [Suma](/src/code/ev1/Suma.java)
 - 02: [Acreditar](/src/code/ev1/Acreditar.java)
 - 03: [MayorDeDos](/src/code/ev1/MayorDeDos.java)
