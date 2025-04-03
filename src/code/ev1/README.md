@@ -30,3 +30,7 @@
 ### Ejercicio 27 de marzo
 
 - [IndiceMasaCorporal](/src/code/ev1/IndiceMasaCorporal.java)
+
+### Ejercicio 3 de abril
+
+- [InterseccionMatrices](/src/code/ev1/InterseccionMatrices.java)
