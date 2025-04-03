@@ -2,8 +2,8 @@ package code.ev1;
 import java.util.Scanner;
 
 class Matrices {
-  private int[][] matriz1 = new int[2][2];
-  private int[][] matriz2 = new int[2][2];
+  private int[][] matriz1 = new int[4][3];
+  private int[][] matriz2 = new int[4][3];
   private Scanner scanner = new Scanner(System.in);
 
   public Matrices() {}
