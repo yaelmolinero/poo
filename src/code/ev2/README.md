@@ -1,7 +1,9 @@
 ## Orden de los programas
 
-### Ejercicio 24 de abril
-- 01: [MenuAreas](/src/code/ev2/MenuAreas.java)
-
-### Ejercicio 30 de abril
-- 01: [TiendaRopa](/src/code/ev2/TiendaRopa.java)
+- 01: [Divisible](/src/code/ev2/Divisible.java)
+- 02: [Animal](/src/code/ev2/Animal.java)
+- 03: [Persona](/src/code/ev2/Personas.java)
+- 04: [OperacionAritmetica](/src/code/ev2/OperacionAritmetica.java)
+- 05: [Figuras](/src/code/ev2/MenuAreas.java)
+- 06: [TiendaRopa](/src/code/ev2/TiendaRopa.java)
+- 07: [Interfaces](/src/code/ev2/Interfaces.java)
